@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Infinitefleet", 
+    "url": "https://www.infinitefleet.com/", 
+    "thumb": "/projects/infinitefleet/thumb", 
+    "submissionDate": "2018-12-06", 
+    "version": {
+      "major": "5", 
+      "version": "5.2.9", 
+      "minor": "2", 
+      "patch": "9"
+    }, 
+    "submitter": "Lawrence", 
+    "desc": "Infinite Fleet is an epic sci-fi MMORTS experience driven by you. Take Command, humanity's survival depends on you."
+  }, 
+  {
+    "name": "Pixelmatic", 
+    "url": "https://www.pixelmatic.com/", 
+    "thumb": "/projects/pixelmatic/thumb", 
+    "submissionDate": "2018-12-06", 
+    "version": {
+      "major": "5", 
+      "version": "5.2.2", 
+      "minor": "2", 
+      "patch": "2"
+    }, 
+    "submitter": "Lawrence",
+    "desc": "Pixelmatic creates amazing social mobile games. We connect people from around the world and spark their imaginations through games."
+  }
+]
